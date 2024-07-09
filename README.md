@@ -13,10 +13,10 @@ Dosen       : Muhammad Fatchan, S.Kom., M.Kom., MTCNA
 | No | Description | Link |
 |-----|------|-----|
 |1|File Praktikum|[Click Here](#file-praktikum)|
-|2|Langkah-langkah Praktikum|[Click Here](#langkah-langkah-praktikum)|
+|2|Hasil Praktikum|[Click Here](#hasil-praktikum)|
 
 ## File Praktikum
-file knn.py <br>
+file knn.py lalu di jalankan di Streamlit <br>
 ```
 import streamlit as st
 import numpy as np
@@ -163,10 +163,14 @@ if __name__ == '__main__':
     st.set_option('deprecation.showPyplotGlobalUse', False)
 ```
 
-## Langkah-langkah Praktikum
+## Hasil Praktikum
+ini hasil dari codingan tersebut
+### foto percobaan 
+![gambar2](https://github.com/namasayafrans/PengolahanCitra/assets/115770839/0df3e1bc-de9b-4f1b-8bb6-15c27c321779)
 
-Untuk melakukan instalasi *Codeigniter 4* dapat dilakukan dengan dua cara, yaitu cara manual dan menggunakan composer. Pada praktikum ini kita menggunakan cara *manual* _.
+![gambar1](https://github.com/namasayafrans/PengolahanCitra/assets/115770839/c8de0a02-ef60-4919-8dec-140922b572c0)
+
 
 
 ## Penutup 
-Kembali ke  |[Daftar Isi](#daftar-isi)|
+Kembali ke [Daftar Isi](#daftar-isi)
