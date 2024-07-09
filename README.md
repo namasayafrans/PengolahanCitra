@@ -17,7 +17,6 @@ Dosen       : Muhammad Fatchan, S.Kom., M.Kom., MTCNA
 
 ## File Praktikum
 file knn.py 
-<br>
 '''
 import streamlit as st
 import numpy as np
