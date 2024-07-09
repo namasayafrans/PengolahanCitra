@@ -166,7 +166,7 @@ if __name__ == '__main__':
 ## Hasil Praktikum
 ini hasil dari codingan tersebut
 ### foto percobaan 
-![gambar2](https://github.com/namasayafrans/PengolahanCitra/assets/115770839/0df3e1bc-de9b-4f1b-8bb6-15c27c321779 width="150" height="280")  
+![gambar2](https://github.com/namasayafrans/PengolahanCitra/assets/115770839/0df3e1bc-de9b-4f1b-8bb6-15c27c321779width="150"height="280")  
 
 ![gambar1](https://github.com/namasayafrans/PengolahanCitra/assets/115770839/c8de0a02-ef60-4919-8dec-140922b572c0)
 
