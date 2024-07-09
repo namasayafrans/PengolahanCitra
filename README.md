@@ -7,7 +7,7 @@ Nama        : Frans Putra Sinaga - 312210046
 Kelas       : TI.22.A1
 Mata Kuliah : Pengolahan citra 
 Dosen       : Muhammad Fatchan, S.Kom., M.Kom., MTCNA
-```
+
 
 ## DAFTAR ISI <br>
 | No | Description | Link |
@@ -17,6 +17,7 @@ Dosen       : Muhammad Fatchan, S.Kom., M.Kom., MTCNA
 
 
 #intruksi-praktikum
+code streamlit knn.py
 ```
 import streamlit as st
 import numpy as np
