@@ -16,8 +16,8 @@ Dosen       : Muhammad Fatchan, S.Kom., M.Kom., MTCNA
 |2|Langkah-langkah Praktikum|[Click Here](#langkah-langkah-praktikum)|
 
 ## File Praktikum
-file knn.py 
-'''
+file knn.py <br>
+```
 import streamlit as st
 import numpy as np
 import cv2
@@ -161,7 +161,7 @@ with col2:
 # Menjalankan aplikasi Streamlit
 if __name__ == '__main__':
     st.set_option('deprecation.showPyplotGlobalUse', False)
-'''
+```
 
 ## Langkah-langkah Praktikum
 
