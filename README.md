@@ -166,3 +166,7 @@ if __name__ == '__main__':
 ## Langkah-langkah Praktikum
 
 Untuk melakukan instalasi *Codeigniter 4* dapat dilakukan dengan dua cara, yaitu cara manual dan menggunakan composer. Pada praktikum ini kita menggunakan cara *manual* _.
+
+
+## Penutup 
+kembali ke  daftar isi [Click Here](#daftar-isi)
