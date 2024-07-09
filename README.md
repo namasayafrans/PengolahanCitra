@@ -1,12 +1,12 @@
 # PengolahanCitra
 
 
-Nama        : Frans Putra Sinaga - 312210046
-              Syahbarudin Abdillah - 312210656
-              Azwa Dipani - 312210417
-Kelas       : TI.22.A1
-Mata Kuliah : Pengolahan citra 
-Dosen       : Muhammad Fatchan, S.Kom., M.Kom., MTCNA
+Nama        : Frans Putra Sinaga - 312210046 <br>
+              Syahbarudin Abdillah - 312210656 <br>
+              Azwa Dipani - 312210417 <br>
+Kelas       : TI.22.A1 <br>
+Mata Kuliah : Pengolahan citra <br> 
+Dosen       : Muhammad Fatchan, S.Kom., M.Kom., MTCNA<br>
 
 
 ## DAFTAR ISI <br>
@@ -16,8 +16,8 @@ Dosen       : Muhammad Fatchan, S.Kom., M.Kom., MTCNA
 |2|Langkah-langkah Praktikum|[Click Here](#langkah-langkah-praktikum)|
 
 
-#intruksi-praktikum
-code streamlit knn.py
+## intruksi-praktikum
+<br> code streamlit knn.py
 ```
 import streamlit as st
 import numpy as np
