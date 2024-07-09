@@ -12,7 +12,7 @@ Dosen       : Muhammad Fatchan, S.Kom., M.Kom., MTCNA
 ## DAFTAR ISI <br>
 | No | Description | Link |
 |-----|------|-----|
-|1|File Praktikum|[Click Here](#instruksi-praktikum)|
+|1|File Praktikum|[Click Here](#file-praktikum)|
 |2|Langkah-langkah Praktikum|[Click Here](#langkah-langkah-praktikum)|
 
 ## File Praktikum
