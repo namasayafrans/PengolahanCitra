@@ -169,4 +169,4 @@ Untuk melakukan instalasi *Codeigniter 4* dapat dilakukan dengan dua cara, yaitu
 
 
 ## Penutup 
-kembali ke  daftar isi [Click Here](#daftar-isi)
+Kembali ke [Daftar Isi](#daftar-isi)
