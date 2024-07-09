@@ -9,7 +9,7 @@ Mata kuliah : Pengolahan Citra
 Dosen       : Muhammad Fatchan, S.Kom., M.Kom., MTCNA
 ```
 
-## DAFTAR ISI <br>
+## DAFTAR ISI
 | No | Description | Link |
 |-----|------|-----|
 |1|File Praktikum|[Click Here](#file-praktikum)|
@@ -169,4 +169,4 @@ Untuk melakukan instalasi *Codeigniter 4* dapat dilakukan dengan dua cara, yaitu
 
 
 ## Penutup 
-Kembali ke [Daftar Isi](#daftar-isi)
+Kembali ke 
