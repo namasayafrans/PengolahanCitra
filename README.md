@@ -166,9 +166,18 @@ if __name__ == '__main__':
 ## Hasil Praktikum
 ini hasil dari codingan tersebut
 ### foto percobaan 
-![gambar2](https://github.com/namasayafrans/PengolahanCitra/assets/115770839/0df3e1bc-de9b-4f1b-8bb6-15c27c321779){width=50% height=auto}
+![gambar2](https://github.com/namasayafrans/PengolahanCitra/assets/115770839/0df3e1bc-de9b-4f1b-8bb6-15c27c321779)
 
 ![gambar1](https://github.com/namasayafrans/PengolahanCitra/assets/115770839/c8de0a02-ef60-4919-8dec-140922b572c0)
+### tampilan hasil KNN
+
+![Screenshot 2024-07-09 183858](https://github.com/namasayafrans/PengolahanCitra/assets/115770839/7e75c39e-705f-4e4e-bd7d-a746ed8a058b)
+
+![Screenshot 2024-07-09 183921](https://github.com/namasayafrans/PengolahanCitra/assets/115770839/88341af2-24cb-43af-bab7-827eef813fbb)
+
+![Screenshot 2024-07-09 193751](https://github.com/namasayafrans/PengolahanCitra/assets/115770839/bb665b88-92bc-4e78-a09c-d1ad018a8a9b)
+
+![Screenshot 2024-07-09 193832](https://github.com/namasayafrans/PengolahanCitra/assets/115770839/587b79d3-4896-48ee-9bf3-8f93d98e7758)
 
 ## Penutup 
 Kembali ke [Daftar Isi](#daftar-isi)
